@@ -31,3 +31,7 @@ Ideas, bugs and questions go in the plugin's
 [Discussions](https://github.com/goinsidemachines/blender-shorts-agent/discussions) and
 [Issues](https://github.com/goinsidemachines/blender-shorts-agent/issues). Security problems are reported privately,
 as the [security policy](https://github.com/goinsidemachines/.github/blob/main/SECURITY.md) explains.
+
+---
+
+Inside Machines is a studio of [Mojood](https://mojood.app).
